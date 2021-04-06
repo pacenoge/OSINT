@@ -1,0 +1,80 @@
+===========
++  Tools  +
+===========
+
+https://osintframework.com/
+https://osintcurio.us/
+https://start.me/p/rxRbpo/ti
+https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list (nixintel tools)
+https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607 (bellingcat tools)
+https://domainbigdata.com/ (domain whois)
+https://who.is/ (domain whois)
+https://completedns.com/dns-history/ (DNS history)
+https://securitytrails.com/ (DNS historical data)
+https://crt.sh/ (certificate search)
+https://host.io/ (analytics)
+https://spyonweb.com/ (analytics)
+https://urlscan.io/ (web scanner)
+https://bgp.he.net/ (IP check)
+https://myip.ms/ (IP check)
+https://www.temporary-mail.net/ (temporary mail)
+http://exif.regex.info/exif.cgi (online metadata check)
+https://whatsmyname.app/ (username search)
+https://namechk.com/ (username search)
+https://www.picuki.com/ (instagram browsing)
+https://urlebird.com/ (tiktok viewer)
+https://www.skypli.com/ (skype search)
+https://api.protonmail.ch/pks/lookup?op=get&search=email@protonmail.com (check protonmail)
+https://github.com/twintproject (twitter scraping)
+https://github.com/instaloader/instaloader (instagram scraping)
+https://github.com/mxrch/GHunt (gmail scanner)
+https://github.com/Malfrats/xeuledoc (google document public information)
+https://github.com/soxoj/maigret (username checker)
+https://github.com/projectdiscovery (useful scanners)
+https://github.com/megadose/holehe
+https://github.com/MobSF/Mobile-Security-Framework-MobSF
+https://tools.epieos.com/ (multiple tools)
+https://intelx.io/tools (multiple tools)
+https://archive.org/
+https://censys.io/
+https://www.shodan.io/
+https://www.virustotal.com/gui/
+https://www.spiderfoot.net/
+
+
+==========
++  Maps  +
+==========
+
+https://earth.google.com/web/
+https://apps.sentinel-hub.com/sentinel-playground
+https://www.windy.com/
+https://zoom.earth/
+https://www.vesselfinder.com/
+https://www.marinetraffic.com/
+https://www.flightradar24.com/
+https://livingatlas.arcgis.com/wayback/
+
+
+============
++  Addons  +
+============
+Wappalyzer
+Search by Image
+Flagfox
+IP Domain Country Flag
+EXIF Viewer Pro
+Google Translate
+CrowdTangle Link Checker
+Fake news debunker by InVID & WeVerify
+
+
+==================
++  Command Line  +
+==================
+
+exiftool <your_file_here>
+whois <ip_address_here>
+dig <domain_or_subdomain_here>
+nmap <ip_address_here>
+
