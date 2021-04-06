@@ -1,7 +1,6 @@
 ===========
 +  Tools  +
 ===========
-
 https://osintframework.com/
 https://osintcurio.us/
 https://start.me/p/rxRbpo/ti
@@ -45,7 +44,6 @@ https://www.spiderfoot.net/
 ==========
 +  Maps  +
 ==========
-
 https://earth.google.com/web/
 https://apps.sentinel-hub.com/sentinel-playground
 https://www.windy.com/
@@ -72,7 +70,6 @@ Fake news debunker by InVID & WeVerify
 ==================
 +  Command Line  +
 ==================
-
 exiftool <your_file_here>
 whois <ip_address_here>
 dig <domain_or_subdomain_here>
