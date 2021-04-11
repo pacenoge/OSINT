@@ -1,6 +1,6 @@
-===========
-+  Tools  +
-===========
+===============
++  Mix Tools  +
+===============
 https://osintframework.com/
 https://osintcurio.us/
 https://start.me/p/rxRbpo/ti
@@ -16,7 +16,6 @@ https://spyonweb.com/ (analytics)
 https://urlscan.io/ (web scanner)
 https://bgp.he.net/ (IP check)
 https://myip.ms/ (IP check)
-https://www.temporary-mail.net/ (temporary mail)
 http://exif.regex.info/exif.cgi (online metadata check)
 https://whatsmyname.app/ (username search)
 https://namechk.com/ (username search)
@@ -30,16 +29,36 @@ https://github.com/mxrch/GHunt (gmail scanner)
 https://github.com/Malfrats/xeuledoc (google document public information)
 https://github.com/soxoj/maigret (username checker)
 https://github.com/projectdiscovery (useful scanners)
-https://github.com/megadose/holehe
+https://github.com/megadose/ (multiple tools)
+https://github.com/tomnomnom (useful tools)
+https://github.com/projectdiscovery (useful tools like subdomain enum etc)
 https://github.com/MobSF/Mobile-Security-Framework-MobSF
 https://github.com/GONZOsint/gitrecon
 https://tools.epieos.com/ (multiple tools)
 https://intelx.io/tools (multiple tools)
 https://archive.org/
+https://archive.vn/
 https://censys.io/
 https://www.shodan.io/
 https://www.virustotal.com/gui/
 https://www.spiderfoot.net/
+https://www.temporary-mail.net/
+https://www.fakepersongenerator.com/
+https://www.fakeaddressgenerator.com/
+
+
+===================
++  Reverse Image  +
+===================
+https://yandex.com/images/
+https://www.google.com/imghp
+https://www.bing.com/?scope=images
+https://tineye.com/
+http://karmadecay.com/
+https://www.gettyimages.com/
+https://pic.sogou.com/
+https://image.baidu.com/
+Google Lens
 
 
 ==========
@@ -75,4 +94,13 @@ exiftool <your_file_here>
 whois <ip_address_here>
 dig <domain_or_subdomain_here>
 nmap <ip_address_here>
+
+
+==================
++  Useful Links  +
+==================
+https://www.exploit-db.com/google-hacking-database
+https://securitytrails.com/blog/google-hacking-techniques
+https://hackernoon.com/how-to-make-sock-puppet-accounts-for-osint-in-2021-12r33gs
+
 
